@@ -13,10 +13,6 @@ function AllCaregories() {
   );
   const navigateSearch = useNavigateSearch();
 
-  // const categoryProductHandler = (category) => {
-  //   navigateSearch(`/categories/products`, { filter: category });
-  // };
-
   const categoryProductHandler = (category) => {
     navigate(`/categories/products/${category}`);
   };
@@ -34,41 +30,41 @@ function AllCaregories() {
   return loading ? (
     <Loading />
   ) : (
-    <div>
-      <div className="cards">
-        {categories.map((category) => {
-          return (
-            <div key={category.id} className="card">
-              <div className="card_img_div">
-                <img
-                  className="card_img"
-                  src={category.image}
-                  alt={category.name}
-                  loading="lazy"
-                />
-              </div>
-              <p style={{ fontSize: "18px", marginTop: "10px" }}>
-                {category.name}
-              </p>
-              <div className="cards_btns">
-                <button
-                  className="product_btn"
-                  onClick={() => categoryProductHandler(category.name)}
-                >
-                  Products
-                </button>
-                <button
-                  className="edit_btn"
-                  onClick={() => categoryDetailHandler(category.id)}
-                >
-                  Edit
-                </button>
-              </div>
+    // <div>
+    <div className="cards">
+      {categories.map((category) => {
+        return (
+          <div key={category.id} className="card">
+            <div className="card_img_div">
+              <img
+                className="card_img"
+                src={category.image}
+                alt={category.name}
+                loading="lazy"
+              />
             </div>
-          );
-        })}
-      </div>
+            <p style={{ fontSize: "18px", marginTop: "10px" }}>
+              {category.name}
+            </p>
+            <div className="cards_btns">
+              <button
+                className="product_btn"
+                onClick={() => categoryProductHandler(category.name)}
+              >
+                Products
+              </button>
+              <button
+                className="edit_btn"
+                onClick={() => categoryDetailHandler(category.id)}
+              >
+                Edit
+              </button>
+            </div>
+          </div>
+        );
+      })}
     </div>
+    // </div>
   );
 }
 

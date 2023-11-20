@@ -1,102 +1,102 @@
 [
   {
     "name": "smartphones",
-    "image": "https://res.cloudinary.com/digjt580z/image/upload/v1696437899/category/smartphones_cbds9g.jpg",
+    "image": "http://localhost:5173/src/assets/images/smartphones.jpg",
     "id": 1
   },
   {
     "id": 2,
     "name": "laptops",
-    "image": "https://res.cloudinary.com/digjt580z/image/upload/v1696437863/category/laptops_kztrll.jpg"
+    "image": "http://localhost:5173/src/assets/images/laptops.jpg"
   },
   {
     "id": 3,
     "name": "fragrances",
-    "image": "https://res.cloudinary.com/digjt580z/image/upload/v1696437767/category/fragrances_nhyde0.jpg"
+    "image": "http://localhost:5173/src/assets/images/fragrances.jpg"
   },
   {
     "id": 4,
     "name": "skincare",
-    "image": "https://res.cloudinary.com/digjt580z/image/upload/v1696437989/category/skincare_tvdr7q.jpg"
+    "image": "http://localhost:5173/src/assets/images/skincare.jpg"
   },
   {
     "id": 5,
     "name": "groceries",
-    "image": "https://res.cloudinary.com/digjt580z/image/upload/v1696437899/category/groceries_rndtd2.jpg"
+    "image": "http://localhost:5173/src/assets/images/groceries.jpg"
   },
   {
     "id": 6,
     "name": "home-decoration",
-    "image": "https://res.cloudinary.com/digjt580z/image/upload/v1696437858/category/home-decoration_sh1kgn.jpg"
+    "image": "http://localhost:5173/src/assets/images/home-decoration.jpg"
   },
   {
     "id": 7,
     "name": "furniture",
-    "image": "https://res.cloudinary.com/digjt580z/image/upload/v1696437902/category/furnitures_no5jre.jpg"
+    "image": "http://localhost:5173/src/assets/images/furnitures.jpg"
   },
   {
     "id": 8,
     "name": "tops",
-    "image": "https://res.cloudinary.com/digjt580z/image/upload/v1696437927/category/tops_aksp8k.jpg"
+    "image": "http://localhost:5173/src/assets/images/tops.jpg"
   },
   {
     "id": 9,
     "name": "womens-dresses",
-    "image": "https://res.cloudinary.com/digjt580z/image/upload/v1696437927/category/womens-dresses_svg3ro.jpg"
+    "image": "http://localhost:5173/src/assets/images/womens-dresses.jpg"
   },
   {
     "id": 10,
     "name": "womens-shoes",
-    "image": "https://res.cloudinary.com/digjt580z/image/upload/v1696437926/category/womens-shoes_i7tqrf.jpg"
+    "image": "http://localhost:5173/src/assets/images/womens-shoes.jpg"
   },
   {
     "id": 11,
     "name": "mens-shirts",
-    "image": "https://res.cloudinary.com/digjt580z/image/upload/v1696437856/category/mens-shirt_khn9bc.jpg"
+    "image": "http://localhost:5173/src/assets/images/mens-shirt.jpg"
   },
   {
     "id": 12,
     "name": "mens-shoes",
-    "image": "https://res.cloudinary.com/digjt580z/image/upload/v1696437902/category/mens-shoes_uw4aqf.jpg"
+    "image": "http://localhost:5173/src/assets/images/mens-shoes.jpg"
   },
   {
     "id": 13,
     "name": "mens-watches",
-    "image": "https://res.cloudinary.com/digjt580z/image/upload/v1696437882/category/mens-watches_ximvnl.jpg"
+    "image": "http://localhost:5173/src/assets/images/mens-watches.jpg"
   },
   {
     "id": 14,
     "name": "womens-watches",
-    "image": "https://res.cloudinary.com/digjt580z/image/upload/v1696437946/category/womens-watches_bkv0za.jpg"
+    "image": "http://localhost:5173/src/assets/images/womens-watches.jpg"
   },
   {
     "id": 15,
     "name": "womens-bags",
-    "image": "https://res.cloudinary.com/digjt580z/image/upload/v1696437959/category/womens-bags_gx9i6q.jpg"
+    "image": "http://localhost:5173/src/assets/images/womens-bags.jpg"
   },
   {
     "id": 16,
     "name": "womens-jewellery",
-    "image": "https://res.cloudinary.com/digjt580z/image/upload/v1696437951/category/womens-jewellery_wldzpf.jpg"
+    "image": "http://localhost:5173/src/assets/images/womens-jewellery.jpg"
   },
   {
     "id": 17,
     "name": "sunglasses",
-    "image": "https://res.cloudinary.com/digjt580z/image/upload/v1696437899/category/sunglasses_gv03h6.jpg"
+    "image": "http://localhost:5173/src/assets/images/sunglasses.jpg"
   },
   {
     "id": 18,
     "name": "automotive",
-    "image": "https://res.cloudinary.com/digjt580z/image/upload/v1696437723/category/automotive_vz18dr.jpg"
+    "image": "http://localhost:5173/src/assets/images/automotive.jpg"
   },
   {
     "id": 19,
     "name": "motorcycle",
-    "image": "https://res.cloudinary.com/digjt580z/image/upload/v1696437885/category/motorcycle_loezcm.jpg"
+    "image": "http://localhost:5173/src/assets/images/motorcycle.jpg"
   },
   {
     "id": 20,
     "name": "lighting",
-    "image": "https://res.cloudinary.com/digjt580z/image/upload/v1696437879/category/lighting_kdt9yp.jpg"
+    "image": "http://localhost:5173/src/assets/images/lighting.jpg"
   }
 ]
