@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "username": "John Smith",
+    "email": "johnsmith@gmail.com",
+    "phone": "+1-202-555-0171",
+    "address": {
+      "street": "123 Main St",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10001",
+      "country": ""
+    },
+    "created_at": "2022-02-01T10:00:00Z",
+    "updated_at": "2022-02-02T10:00:00Z"
+  },
+  {
+    "id": 2,
+    "username": "Emma Johnson",
+    "email": "emmajohnson@hotmail.com",
+    "phone": "+1-202-555-0172",
+    "address": {
+      "street": "456 Elm St",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90001",
+      "country": ""
+    },
+    "created_at": "2022-02-02T10:00:00Z",
+    "updated_at": "2022-02-03T10:00:00Z"
+  },
+  {
+    "id": 3,
+    "username": "Michael Lee",
+    "email": "michaellee@yahoo.com",
+    "phone": "+1-202-555-0173",
+    "address": {
+      "street": "789 Oak St",
+      "city": "Chicago",
+      "state": "IL",
+      "zip": "60007",
+      "country": ""
+    },
+    "created_at": "2022-02-03T10:00:00Z",
+    "updated_at": "2022-02-04T10:00:00Z"
+  },
+  {
+    "id": 4,
+    "username": "Sophia Kim",
+    "email": "sophiakim@gmail.com",
+    "phone": "+1-202-555-0174",
+    "address": {
+      "street": "1011 Pine St",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77002",
+      "country": ""
+    },
+    "created_at": "2022-02-04T10:00:00Z",
+    "updated_at": "2022-02-05T10:00:00Z"
+  },
+  {
+    "id": 5,
+    "username": "David Garcia",
+    "email": "davidgarcia@gmail.com",
+    "phone": "+1-202-555-0175",
+    "address": {
+      "street": "1213 Cedar St",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip": "85001",
+      "country": ""
+    },
+    "created_at": "2022-02-05T10:00:00Z",
+    "updated_at": "2022-02-06T10:00:00Z"
+  },
+  {
+    "id": 6,
+    "username": "Isabella Hernandez",
+    "email": "isabellahernandez@hotmail.com",
+    "phone": "+1-202-555-0176",
+    "address": {
+      "street": "1415 Birch St",
+      "city": "Philadelphia",
+      "state": "PA",
+      "zip": "19019",
+      "country": ""
+    },
+    "created_at": "2022-02-06T10:00:00Z",
+    "updated_at": "2022-02-07T10:00:00Z"
+  },
+  {
+    "id": 7,
+    "username": "William Robinson",
+    "email": "williamrobinson@yahoo.com",
+    "phone": "+1-202-555-0177",
+    "address": {
+      "street": "1617 Maple St",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78205",
+      "country": ""
+    },
+    "created_at": "2022-02-07T10:00:00Z",
+    "updated_at": "2022-02-08T10:00:00Z"
+  },
+  {
+    "id": 8,
+    "username": "Olivia Smith",
+    "email": "oliviasmith@gmail.com",
+    "phone": "+1-202-555-0178",
+    "address": {
+      "street": "1819 Oak St",
+      "city": "San Diego",
+      "state": "CA",
+      "zip": "92101",
+      "country": ""
+    },
+    "created_at": "2022-01-08T10:00:00Z",
+    "updated_at": "2022-02-09T10:00:00Z"
+  },
+  {
+    "id": 9,
+    "username": "Daniel Martinez",
+    "email": "danielmartinez@hotmail.com",
+    "phone": "+1-202-555-0179",
+    "address": {
+      "street": "2021 Cedar St",
+      "city": "San Jose",
+      "state": "CA",
+      "zip": "95113",
+      "country": ""
+    },
+    "created_at": "2022-01-09T10:00:00Z",
+    "updated_at": "2022-02-10T10:00:00Z"
+  },
+  {
+    "id": 10,
+    "username": "Ava Johnson",
+    "email": "avajohnson@yahoo.com",
+    "phone": "+1-202-555-0180",
+    "address": {
+      "street": "2223 Maple St",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75201",
+      "country": ""
+    },
+    "created_at": "2022-02-10T10:00:00Z",
+    "updated_at": "2022-02-11T10:00:00Z"
+  },
+  {
+    "id": 11,
+    "username": "Ethan Davis",
+    "email": "ethandavis@hotmail.com",
+    "phone": "+1-202-555-0181",
+    "address": {
+      "street": "2425 Oak St",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78701",
+      "country": ""
+    },
+    "created_at": "2022-05-11T10:00:00Z",
+    "updated_at": "2022-02-12T10:00:00Z"
+  },
+  {
+    "id": 12,
+    "username": "Mia Garcia",
+    "email": "miagarcia@gmail.com",
+    "phone": "+1-202-555-0182",
+    "address": {
+      "street": "2627 Cedar St",
+      "city": "Fort Worth",
+      "state": "TX",
+      "zip": "76102",
+      "country": ""
+    },
+    "created_at": "2022-05-12T10:00:00Z",
+    "updated_at": "2022-02-13T10:00:00Z"
+  },
+  {
+    "id": 13,
+    "username": "Alexander Johnson",
+    "email": "alexanderjohnson@yahoo.com",
+    "phone": "+1-202-555-0183",
+    "address": {
+      "street": "2829 Maple St",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94102",
+      "country": ""
+    },
+    "created_at": "2022-06-13T10:00:00Z",
+    "updated_at": "2022-02-14T10:00:00Z"
+  },
+  {
+    "id": 14,
+    "username": "Sophia Hernandez",
+    "email": "sophiahernandez@hotmail.com",
+    "phone": "+1-202-555-0184",
+    "address": {
+      "street": "3031 Oak St",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90012",
+      "country": ""
+    },
+    "created_at": "2022-06-14T10:00:00Z",
+    "updated_at": "2022-02-15T10:00:00Z"
+  },
+  {
+    "id": 15,
+    "username": "Benjamin Perez",
+    "email": "benjaminperez@yahoo.com",
+    "phone": "+1-202-555-0185",
+    "address": {
+      "street": "3233 Cedar St",
+      "city": "Sacramento",
+      "state": "CA",
+      "zip": "95814",
+      "country": ""
+    },
+    "created_at": "2022-07-15T10:00:00Z",
+    "updated_at": "2022-02-16T10:00:00Z"
+  },
+  {
+    "id": 16,
+    "username": "Charlotte Mitchell",
+    "email": "charlottemitchell@gmail.com",
+    "phone": "+1-202-555-0186",
+    "address": {
+      "street": "3435 Maple St",
+      "city": "Seattle",
+      "state": "WA",
+      "zip": "98101",
+      "country": ""
+    },
+    "created_at": "2022-08-16T10:00:00Z",
+    "updated_at": "2022-02-17T10:00:00Z"
+  },
+  {
+    "id": 17,
+    "username": "Michael King",
+    "email": "michaelking@hotmail.com",
+    "phone": "+1-202-555-0187",
+    "address": {
+      "street": "3637 Oak St",
+      "city": "Portland",
+      "state": "OR",
+      "zip": "97204",
+      "country": ""
+    },
+    "created_at": "2022-08-17T10:00:00Z",
+    "updated_at": "2022-02-18T10:00:00Z"
+  },
+  {
+    "id": 18,
+    "username": "Emily Lee",
+    "email": "emilylee@yahoo.com",
+    "phone": "+1-202-555-0188",
+    "address": {
+      "street": "3839 Cedar St",
+      "city": "Vancouver",
+      "state": "BC",
+      "zip": "V6B 6G",
+      "country": ""
+    },
+    "created_at": "2022-09-18T10:00:00Z",
+    "updated_at": "2022-02-19T10:00:00Z"
+  },
+  {
+    "id": 19,
+    "username": "Jacob Walker",
+    "email": "jacobwalker@hotmail.com",
+    "phone": "+1-202-555-0189",
+    "address": {
+      "street": "4041 Maple St",
+      "city": "Calgary",
+      "state": "AB",
+      "zip": "T2P 0H",
+      "country": ""
+    },
+    "created_at": "2022-10-19T10:00:00Z",
+    "updated_at": "2022-02-20T10:00:00Z"
+  },
+  {
+    "id": 20,
+    "username": "Victoria Scott",
+    "email": "victoriascott@gmail.com",
+    "phone": "+1-202-555-0190",
+    "address": {
+      "street": "4243 Oak St",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T5J 1B",
+      "country": ""
+    },
+    "created_at": "2022-11-20T10:00:00Z",
+    "updated_at": "2022-02-21T10:00:00Z"
+  }
+]

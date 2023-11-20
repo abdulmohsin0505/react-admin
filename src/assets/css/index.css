@@ -1,0 +1,148 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,700;0,800;1,700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,600;1,900&family=Rajdhani:wght@500;700&family=Roboto:ital,wght@0,100;0,300;0,700;1,900&display=swap");
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+body {
+  margin: 0;
+  /* font-family: "Lato", sans-serif; */
+  font-family: "Open Sans", sans-serif;
+  /* font-family: "Poppins", sans-serif; */
+  /* font-family: "Roboto", sans-serif; */
+  /* font-family: "Rajdhani", "Roboto", sans-serif; */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  scroll-behavior: smooth;
+  letter-spacing: 0.7px;
+  background: var(--main-bg);
+  /* font-size: 1.4rem; */
+  /* font-weight: 400; */
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+
+:root {
+  --main-bg: #ffffff;
+  --second-bg: #fafafb;
+  --txt-color: #455560;
+  --txt-white: #fff;
+  --main-color: #349eff;
+  --second-color: #62b4ff;
+  --box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+
+  --main-bg-light: #ffffff;
+  --second-bg-light: #fafafb;
+  /* --txt-color-light: #455560; */
+  --txt-color-light: #1d242e;
+  --box-shadow-light: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+
+  --main-bg-dark: #2d2d2d;
+  --second-bg-dark: #202020;
+  --txt-color-dark: #bbbbbb;
+  /* --txt-color-dark: #ffffff; */
+  --box-shadow-dark: rgba(0, 0, 0, 0.2) 0px 5px 10px;
+
+  --main-color-blue: #349eff;
+  --second-color-blue: #62b4ff;
+
+  --main-color-red: #fb0b12;
+  --second-color-red: #ff4a6b;
+
+  --main-color-cyan: #10d4d2;
+  --second-color-cyan: #2ae9e6;
+
+  --main-color-green: #019707;
+  --second-color-green: #4caf50;
+
+  --main-color-orange: #d68102;
+  --second-color-orange: #fca11a;
+  --transition-cubic: cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.light-background {
+  background-color: var(--main-bg-light);
+  color: #000;
+}
+
+.dark-background {
+  background-color: var(--main-bg-dark);
+  color: #fff;
+}
+
+.blue-color {
+  background-color: var(--main-color-blue);
+  color: #fff;
+}
+
+.red-color {
+  background-color: var(--main-color-red);
+  color: #fff;
+}
+
+.cyan-color {
+  background-color: var(--main-color-cyan);
+  color: #fff;
+}
+
+.green-color {
+  background-color: var(--main-color-green);
+  color: #fff;
+}
+
+.orange-color {
+  background-color: var(--main-color-orange);
+  color: #fff;
+}
+
+button {
+  outline: none;
+  border: none;
+  color: var(--txt-white);
+  background: var(--second-color);
+  padding: 10px 13px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: var(--second-bg);
+  color: var(--txt-color);
+}
+
+section {
+  background: var(--main-bg);
+  box-shadow: var(--box-shadow);
+  border-radius: 10px;
+  width: 100%;
+  padding: 10px;
+  height: calc(100vh - 48px - 20px);
+}
+
+select {
+  padding: 4px 6px;
+  border-radius: 4px;
+  color: var(--text-color);
+  background-color: var(--main-bg);
+}
+
+select option {
+  background-color: var(--main-bg);
+}
